@@ -1,0 +1,15 @@
+{
+  "name": "Bilmem mi?",
+  "short_name": "Bilmem mi?",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "b9075697fbd761c7e31460edf6e983392cb731c1353c1290ca819dc09e2434dd-bilmem_mi_logo.png",
+        "sizes": "512x512"
+      }]
+}
